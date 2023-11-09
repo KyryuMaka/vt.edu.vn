@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import DLLHIcon from "../images/icons/DLLH.png";
 import HDDLIcon from "../images/icons/HDDL.png";
 import TKDHIcon from "../images/icons/TKDH.png";
